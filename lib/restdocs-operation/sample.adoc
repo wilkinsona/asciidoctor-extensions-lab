@@ -1,0 +1,7 @@
+= Sample
+
+== Section
+
+Some section content
+
+operation::foo[]
